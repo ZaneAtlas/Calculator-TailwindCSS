@@ -15,7 +15,7 @@ This is a simple web calculator project built using HTML, Tailwind CSS, and Java
 
 ## Demo
 
-You can see a live demo of the calculator here: [Live Demo](https://your-demo-url.com)
+You can see a live demo of the calculator here: [Live Demo](https://zaneatlas.github.io/Calculator-TailwindCSS/)
 
 ## Features
 
@@ -28,7 +28,7 @@ You can see a live demo of the calculator here: [Live Demo](https://your-demo-ur
 
 To use the calculator, follow these simple steps:
 
-1. Visit the [Live Demo](https://your-demo-url.com) or open the `index.html` file in your web browser.
+1. Visit the [Live Demo](https://zaneatlas.github.io/Calculator-TailwindCSS/) or open the `index.html` file in your web browser.
 
 2. Enter the numbers and select the operation you want to perform using the on-screen buttons or your keyboard.
 
@@ -43,4 +43,4 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/ZaneAtlas/Calculator-TailwindCSS.git
